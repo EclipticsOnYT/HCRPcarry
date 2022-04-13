@@ -2,7 +2,7 @@
 fx_version 'bodacious'
 games { 'gta5' }
 
-author 'Ecliptics'
+author 'ecliptics'
 description 'CarryPeople'
 version '1.0.0'
 
